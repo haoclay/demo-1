@@ -31,6 +31,7 @@ public class MessageTest {
         String result = client.send(map);
 
         System.out.println(result);
+        System.out.println(result);
 
     }
 }
