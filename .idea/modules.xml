@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game2_11/Game2_11.iml" filepath="$PROJECT_DIR$/Game2_11/Game2_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Message2_11/Message2_11.iml" filepath="$PROJECT_DIR$/Message2_11/Message2_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyGame/MyGame.iml" filepath="$PROJECT_DIR$/MyGame/MyGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QrCode/QrCode.iml" filepath="$PROJECT_DIR$/QrCode/QrCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QrCode2/QrCode2.iml" filepath="$PROJECT_DIR$/QrCode2/QrCode2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_13/day01_13.iml" filepath="$PROJECT_DIR$/day01_13/day01_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_14/day01_14.iml" filepath="$PROJECT_DIR$/day01_14/day01_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_15/day01_15.iml" filepath="$PROJECT_DIR$/day01_15/day01_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_17/day01_17.iml" filepath="$PROJECT_DIR$/day01_17/day01_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_18/day01_18.iml" filepath="$PROJECT_DIR$/day01_18/day01_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-11/day12-11.iml" filepath="$PROJECT_DIR$/day12-11/day12-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_16/day12_16.iml" filepath="$PROJECT_DIR$/day12_16/day12_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_18/day12_18.iml" filepath="$PROJECT_DIR$/day12_18/day12_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_20/day12_20.iml" filepath="$PROJECT_DIR$/day12_20/day12_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_21/day12_21.iml" filepath="$PROJECT_DIR$/day12_21/day12_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_22/day12_22.iml" filepath="$PROJECT_DIR$/day12_22/day12_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_28/day12_28.iml" filepath="$PROJECT_DIR$/day12_28/day12_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_11/day1_11.iml" filepath="$PROJECT_DIR$/day1_11/day1_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_12/day1_12.iml" filepath="$PROJECT_DIR$/day1_12/day1_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_5/day1_5.iml" filepath="$PROJECT_DIR$/day1_5/day1_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_10/day2_10.iml" filepath="$PROJECT_DIR$/day2_10/day2_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_11/day2_11.iml" filepath="$PROJECT_DIR$/day2_11/day2_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_9/day2_9.iml" filepath="$PROJECT_DIR$/day2_9/day2_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-1.iml" filepath="$PROJECT_DIR$/demo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message/message.iml" filepath="$PROJECT_DIR$/message/message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqEmail/qqEmail.iml" filepath="$PROJECT_DIR$/qqEmail/qqEmail.iml" />
+    </modules>
+  </component>
+</project>
